@@ -71,7 +71,7 @@ article{
     
     background-image: url(../imagens/background001.jpg);
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
     margin: 100px -50px 0px -50px;
     padding-bottom: 50px;
    
